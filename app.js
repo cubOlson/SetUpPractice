@@ -16,6 +16,7 @@ app.set('view engine', 'pug');
 
 //official first
 //Only on the Cub branch 
+//Added from site
 
 app.use(logger('dev'));
 app.use(express.json());
